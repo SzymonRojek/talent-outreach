@@ -282,6 +282,6 @@ The project started in 2021 as "Email Campaign Dashboard", a CRUD app that sent 
 ---
 
 <div align="center">
-<sub>Built by <a href="https://github.com/SzymonRojek">Szymon Rojek</a></sub><br>
+<sub>Built by <a href="https://github.com/SzymonRojek">Szymon Rojek</a> · <a href="https://szymonrojek.com">szymonrojek.com</a></sub><br>
 <sub>© 2021-2026 Szymon Rojek - shared for review, all rights reserved</sub>
 </div>
